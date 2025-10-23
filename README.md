@@ -89,3 +89,9 @@ parser.add_argument(
 uv run funasr_wss_client.py
 ```
 
+## 备注
+![image.png](https://starsjsm-images.oss-cn-beijing.aliyuncs.com/202510232029794.png)
+                                     公众号
+
+![image.png](https://starsjsm-images.oss-cn-beijing.aliyuncs.com/202510232029460.png)
+				 群聊（如果过期了，可以在公众号给我留言）
