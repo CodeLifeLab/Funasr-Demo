@@ -90,6 +90,8 @@ uv run funasr_wss_client.py
 ```
 
 ## 备注
+pyproject.toml为服务器端的依赖文件，在服务器端可以使用`uv install`这个命令，下载所有依赖。
+
 ![image.png](https://starsjsm-images.oss-cn-beijing.aliyuncs.com/202510232029794.png)
                                      公众号
 
