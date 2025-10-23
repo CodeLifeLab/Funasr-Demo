@@ -21,8 +21,10 @@ git clone https://github.com/modelscope/FunASR.git
 # 复制funasr目录 -->  asr-client-server-learn 或者使用 uv add Funasr
 
 # 下载依赖
-uv add -r requirements_server.txt
-uv add Funasr
+uv install #推荐 前提已经下载了pyproject.toml文件
+	# 或（不推荐）
+	uv add -r requirements_server.txt
+	uv add funasr
 # 在asr-client-server-learn下运行funasr_wss_server.py
 uv run funasr_wss_server.py
 
